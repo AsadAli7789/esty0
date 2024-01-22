@@ -784,3 +784,86 @@ transition: 1s;
     }
 
 }
+@media(max-width:920px)
+{
+    
+    .serch{
+        width: 90%;
+        position: absolute;
+        top: 60px;
+    }
+    .serch>input{
+        width: 90%;
+    }
+    .vcf{
+        display: none;
+
+    }
+    .ioi{
+        display: none;
+    }
+    .uol{
+        display: none;
+    }
+    .por{
+        margin-top: 100px;
+
+    }
+    .jkl{
+        flex-direction: column;
+}
+.last{
+    display: none;
+    }
+}
+@media (max-width:364px){
+    .llk{
+    display:none
+        
+   
+    }
+    .qsrt{
+    display:none
+        
+        
+    }
+    .sdw{display:none
+        
+    }
+    .wed{
+    display:none
+        
+        
+    }
+    .wsq{
+    display:none
+        
+    }
+    .qsw{
+    display:none
+        
+    }
+    .bnv{
+    display:none
+        
+    }
+    .bvn{ 
+        display:none
+
+    }
+    .bkl{ 
+        display: none;
+    }
+    .lhb{ 
+    display:none
+
+    }
+    .vot{ 
+        display: none;
+
+    }
+    .lul{ 
+        
+    display: none;
+}
+}
